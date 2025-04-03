@@ -9,12 +9,13 @@
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div align= "center">
   <div class="header">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6d6d6d&text=Hyunji's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Hyunji's GitHub">
   </div>
 </div>
+-->
 
 ## ✨ Tech Stack ✨
 
