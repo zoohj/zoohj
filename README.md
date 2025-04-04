@@ -7,20 +7,25 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🧑‍💻 Contact me
 -->
-
 <!--
-<div align= "center">
-  <div class="header">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6d6d6d&text=Hyunji's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Hyunji's GitHub">
-  </div>
-</div>
--->
+## Activities...🤹
+
+🌱 I’m currently learning ...
+
+* 멋쟁이사자처럼 상명대학교 12기 운영진 (2024.01 ~ 2024.12)
+
 
 ## ✨ Tech Stack ✨
+### Studying...✏️
+
+-->
+
+### 🌱 I’m currently learning ...
 
 <div align="center">
-  <h3>📚 Platforms & Languages</h3>
+  <h3>⌨️ Platforms & Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
@@ -48,7 +53,7 @@
 </div>
 </br>
 
-  ## 🏅 Stat
+  ### 🏅 Stat
 <div align= "center">                                                                        
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/zoohj/github-readme-stats">
@@ -60,12 +65,14 @@
   </div>
 </div>
 
-## 🧑‍💻 Contact me 🧑‍💻
+### 📫 How to reach me
 
 <div align= "center"> 
-  <a href=https://zo-o99.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://zo-o99.tistory.com"> </a>
-  <a href=202110596@sangmyung.kr> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=202110596@sangmyung.kr"> </a>
-  <a href=https://www.instagram.com/zo_o.29> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/zo_o.29"> </a>
-  <a href=mailto:xoxo0675@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:xoxo0675@gmail.com"> </a>
+  <!--
+  <a href=https://zo-o99.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://zo-o99.tistory.com"> </a>
+  -->
+  <a href=202110596@sangmyung.kr> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=202110596@sangmyung.kr"> </a>
+  <a href=mailto:xoxo0675@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xoxo0675@gmail.com"> </a>
+  <a href=https://www.instagram.com/zo_o.29> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zo_o.29"> </a>
 </div>
 <br>
