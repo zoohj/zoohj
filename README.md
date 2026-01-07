@@ -50,12 +50,6 @@
 
   ### 🏅 Stat
 <div align= "center">                                                                        
-  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/zoohj/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoohj&langs_count=10&layout=compact">
-  </a>
-<img src="https://github-readme-stats.vercel.app/api?username=zoohj&show_icons=true">
-<br/>
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyjoo0909" alt="Baekjoon Tier">
   </div>
 </div>
